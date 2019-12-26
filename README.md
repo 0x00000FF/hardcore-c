@@ -44,7 +44,11 @@
 
     #include, #define 등 컴파일 과정에서 일어나는 전처리과정에 대해 알아봅니다.
    
- 9. **테스팅**   ![](https://img.shields.io/badge/status-not%20started-lightgrey)
+ 9. **라이브러리**   ![](https://img.shields.io/badge/status-not%20started-lightgrey)
+ 
+    다른 라이브러리에서 기능을 가져오는 방법에 대해(정적 링크, 동적 링크) 자세히 알아봅니다.
+ 
+ 9. **테스팅** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
  
     프로그램의 신뢰성을 향상하기 위해 필요한 과정인 테스팅에 대해 간단하게 알아봅니다.
 
