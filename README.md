@@ -18,7 +18,7 @@
 
  3. **프로그램의 흐름 제어** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
     
-    원하는 방향으로 프로그램을 제어할 수 있는 몇가지 기능(if-else, for, while, do-while, goto)에 대해 다룹니다. 
+    원하는 방향으로 프로그램을 제어할 수 있는 몇가지 기본 기능(if-else, for, while, do-while)에 대해 다룹니다. 
     
  4. **배열, 구조체, 공용체** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
 
@@ -33,6 +33,10 @@
 
     주소를 담는 포인터와 이후 내용의 이해에 필요한 기초 x86-64 어셈블리 언어에 대해 알아봅니다.
    
+ 6. **프로그램의 흐름 제어 II**
+  
+    goto를 포함하여 setjmp/longjmp등 프로그램의 흐름을 제어하는 고급 기능에 대해 다룹니다.
+  
  7. **동적 할당과 메모리 구조** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
    
     프로그램에서 메모리를 요청하고 반환하는 과정에 대해 알아봅니다. 또한 프로그램 전체 실행주기에서 어느 부분에 어떤 메모리가 할당되는지 자세하게 알아봅니다.
