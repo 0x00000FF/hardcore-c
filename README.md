@@ -8,7 +8,7 @@
 매운맛 C는 다음과 같이 구성됩니다. (변경될 수 있음!) 작성 완료된 챕터는 ![](https://img.shields.io/badge/status-complete-brightgreen) 로 표시되어 있습니다. 장기간 예상하고 천천히 작성될 예정이므로 양해 바랍니다.
 
 
- 1. **컴퓨터 프로그램의 본질** ![](https://img.shields.io/badge/status-writing-red)
+ 1. **컴퓨터 프로그램의 본질** ![](https://img.shields.io/badge/status-complete-brightgreen)
     
     앞으로 작성하게 될 C 소스코드와 프로그램이 실제 어떤 형태인지, 어떤 식으로 사용되는지 다룹니다. 컴파일러, 링커, 어셈블러에 대한 설명이 포함되어 있습니다.
 
