@@ -11,6 +11,8 @@
  1. **컴퓨터 프로그램의 본질** ![](https://img.shields.io/badge/status-writing-red)
     
     앞으로 작성하게 될 C 소스코드와 프로그램이 실제 어떤 형태인지, 어떤 식으로 사용되는지 다룹니다. 컴파일러, 링커, 어셈블러에 대한 설명이 포함되어 있습니다.
+
+ 2. **입력과 출력** ![](https://img.shields.io/badge/status-writing-red)
     
  2. **기본 자료형** ![](https://img.shields.io/badge/status-writing-red)
  
@@ -45,6 +47,10 @@
  
     C언어에서 문자열 처리가 어떻게 이루어지는지 알아봅니다.
  
+ 8. **파일 처리** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
+ 
+    파일의 의미에 대해 이해하고 파일의 처리는 어떻게 할 수 있는지 알아봅니다.
+
  9. **전처리기** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
 
     #include, #define 등 컴파일 과정에서 일어나는 전처리과정에 대해 알아봅니다.
