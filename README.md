@@ -24,13 +24,14 @@
 
     여러 기본 자료형들을 가지고 만들어 낼 수 있는 자료구조인 배열, 구조체, 공용체에 대해 알아봅니다. 또한 기본 자료형의 연산과는 어떻게 다른지, 자료형(Type)에 대해서도 알아봅니다.
 
- 5. **포인터와 기초 어셈블리** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
 
-    주소를 담는 포인터와 이후 내용의 이해에 필요한 기초 x86-64 어셈블리 언어에 대해 알아봅니다.
-
- 6. **서브루틴과 함수** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
+ 5. **서브루틴과 함수** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
 
     C언어에서 프로그램 모듈화의 핵심을 담당하는 서브루틴과 함수에 대해 알아봅니다.
+
+ 6. **포인터와 기초 어셈블리** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
+
+    주소를 담는 포인터와 이후 내용의 이해에 필요한 기초 x86-64 어셈블리 언어에 대해 알아봅니다.
    
  7. **동적 할당과 메모리 구조** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
    
