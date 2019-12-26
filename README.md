@@ -33,7 +33,7 @@
 
     주소를 담는 포인터와 이후 내용의 이해에 필요한 기초 x86-64 어셈블리 언어에 대해 알아봅니다.
    
- 6. **프로그램의 흐름 제어 II**
+ 6. **프로그램의 흐름 제어 II** ![](https://img.shields.io/badge/status-not%20started-lightgrey)
   
     goto를 포함하여 setjmp/longjmp등 프로그램의 흐름을 제어하는 고급 기능에 대해 다룹니다.
   
